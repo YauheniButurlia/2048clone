@@ -1,0 +1,1 @@
+include ':app', ':animationtry', ':swipedots', ':varradcircles', ':2048swipeanim', ':fouronfouranim'
