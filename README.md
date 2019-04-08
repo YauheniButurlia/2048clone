@@ -5,3 +5,5 @@ app - is an 2048 app implementation without any animation and any graphic design
 
 
 fouronfouranimation - full game process, without save/load. Full set of animations and a bit of graphic design.
+Demo:
+![](2048.gif)
